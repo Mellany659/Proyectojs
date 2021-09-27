@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Proyectojs/static/css/main.501077df.chunk.css",
+    "main.js": "/Proyectojs/static/js/main.e74b310d.chunk.js",
+    "main.js.map": "/Proyectojs/static/js/main.e74b310d.chunk.js.map",
+    "runtime-main.js": "/Proyectojs/static/js/runtime-main.8775fe69.js",
+    "runtime-main.js.map": "/Proyectojs/static/js/runtime-main.8775fe69.js.map",
+    "static/js/2.31fe22aa.chunk.js": "/Proyectojs/static/js/2.31fe22aa.chunk.js",
+    "static/js/2.31fe22aa.chunk.js.map": "/Proyectojs/static/js/2.31fe22aa.chunk.js.map",
+    "static/js/3.b9dd5a1b.chunk.js": "/Proyectojs/static/js/3.b9dd5a1b.chunk.js",
+    "static/js/3.b9dd5a1b.chunk.js.map": "/Proyectojs/static/js/3.b9dd5a1b.chunk.js.map",
+    "index.html": "/Proyectojs/index.html",
+    "static/css/main.501077df.chunk.css.map": "/Proyectojs/static/css/main.501077df.chunk.css.map",
+    "static/js/2.31fe22aa.chunk.js.LICENSE.txt": "/Proyectojs/static/js/2.31fe22aa.chunk.js.LICENSE.txt",
+    "static/media/foto.2a2984c3.jpeg": "/Proyectojs/static/media/foto.2a2984c3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8775fe69.js",
+    "static/js/2.31fe22aa.chunk.js",
+    "static/css/main.501077df.chunk.css",
+    "static/js/main.e74b310d.chunk.js"
+  ]
+}
